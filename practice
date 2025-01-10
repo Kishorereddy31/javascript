@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        // let A=parseInt(prompt())
+        // //let b+eInt(prompt())
+
+        // if((A%2==0 && A%3==0)) {
+        //     document.write(A+" is divisible by both 2 and 3", "<br>")
+        // }else{
+        //     document.write(A+"is not divisible by both 2 and 3")
+        // }
+
+
+        // let a = parseInt(prompt())
+        // let b = parseInt(prompt())
+        // let c=  parseInt(prompt())
+        // if(a>(b,c)){
+        //     document.write(a+" is greater than "+b +" and " +c);
+        // }
+        // else if(b>(a,c)){
+        //     document.write(b+" is greater than "+a+" and "+c);
+        // }else if(c>(b,a)){
+        //     document.write(c+" is greater than "+b+" and "+a);
+        // }else{
+        //     document.write("Invalid Input");
+        // }
+
+        // let wD =parseInt(prompt());
+        // let ab = parseInt(prompt());
+        // let a = (ab/wD)*100;
+        // document.write(a,"<br>")
+        // if(a<75){
+        //     document.write("You are unfit","<br>");
+        // }
+        // else{
+        //     document.write("Good");
+        // }
+
+        // let a=parseInt(prompt("salary"))
+        // let b=parseInt(prompt("years of service"))
+        // if(b>10){
+        //     let c=a*0.1
+        //     let d=c+a
+        //     alert("after bonus salary"+d)
+        // }
+        // else if(b>=6 && b<=10){
+        //     let c=a*0.08
+        //     let d=c+a
+        //     alert("after bonus salary"+d)
+        // }
+        // else if(b<6){
+        //     let c=a*0.05
+        //     let d=c+a
+        //     alert("after bonus salary"+a)
+        // }
+        // else{
+        //     alert(a)
+        // } 
+</script>
+
+</body>
+</html>
